@@ -18,7 +18,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author tanyongpeng
+ * @author liuqingchen
  * <p>调用腾讯接口</p>
  **/
 @Component

@@ -10,7 +10,7 @@ import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /**
- * @author tanyongpeng
+ * @author liuqingchen
  * <p>des</p>
  **/
 @Component

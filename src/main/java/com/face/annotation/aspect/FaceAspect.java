@@ -15,7 +15,7 @@ import org.springframework.stereotype.Component;
 import java.util.Date;
 
 /**
- * @author tanyongpeng
+ * @author liuqingchen
  * <p>方法执行后，添加日志</p>
  **/
 @Component

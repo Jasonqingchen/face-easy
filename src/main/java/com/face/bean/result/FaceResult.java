@@ -5,7 +5,7 @@ import io.swagger.models.auth.In;
 import lombok.Data;
 
 /**
- * @author tanyongpeng
+ * @author liuqingchen
  * <p>des</p>
  **/
 @Data

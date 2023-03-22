@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
 
 /**
- * @author tanyongpeng
+ * @author liuqingchen
  * <p>des</p>
  **/
 @Component
